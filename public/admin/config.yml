@@ -1,0 +1,3 @@
+backend:
+  name: github
+  repo: melhotiby/test-react # Path to your GitHub repository
